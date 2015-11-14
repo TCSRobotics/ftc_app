@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 /**
  * Created by mpclayton on 10/29/15.
  */
-        public class TCSAuto extends TCSAutoBase {
+        public class TCSAutoRed extends TCSAutoBase {
 
             @Override
             public void runOpMode() throws InterruptedException {
