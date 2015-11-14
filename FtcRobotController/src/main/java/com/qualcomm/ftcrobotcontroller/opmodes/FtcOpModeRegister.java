@@ -65,6 +65,8 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register("TCSTankDrive",TCSTankDrive.class);
     manager.register("TCSAutoBlue",TCSAutoBlue.class);
     manager.register("TCSAutoRed",TCSAutoRed.class);
+    manager.register("TCSAutoSkim",TCSAutoSkim.class);
+
 
 
 
