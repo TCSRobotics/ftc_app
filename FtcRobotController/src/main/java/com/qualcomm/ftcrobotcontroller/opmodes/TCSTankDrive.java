@@ -57,8 +57,7 @@ public class TCSTankDrive extends OpMode {
 
 	}
 	@Override
-	public void init()
-	{
+	public void init() {
 
 	}
 
