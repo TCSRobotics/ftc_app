@@ -56,6 +56,11 @@ public class TCSTankDrive extends OpMode {
 	public TCSTankDrive() {
 
 	}
+	@Override
+	public void init()
+	{
+
+	}
 
 	/*
 	 * Code to run when the op mode is first enabled goes here
