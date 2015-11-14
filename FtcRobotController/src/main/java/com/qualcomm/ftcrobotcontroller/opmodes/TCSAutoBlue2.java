@@ -20,7 +20,7 @@ public class TCSAutoBlue2 extends TCSAutoBase {
 
         pauseRobot(8);
         moveStraight(.30, 8, .25);
-        turn(Direction.LEFT,.30,1.5,.25);
+        turn(Direction.RIGHT,.30,1.5,.25);
         moveStraight(.30,6.5,0);
         pauseRobot(0);
     }
