@@ -13,7 +13,7 @@ public class TCSAutoSkim extends TCSAutoBase {
         super.runOpMode();
 
         // wait for the start button to be pressed
-        //moveStraight(double speed, double seconds, double wait) throws InterruptedException{
+        //moveStraight(double speed, double seconds, double wait) throws
         waitForStart();
 
         pauseRobot(8);
